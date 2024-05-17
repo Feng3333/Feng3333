@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feng3333
 - 👀 I’m interested in code ?
-- 🌱 I’m currently learning c++;  
+- 🌱 C++ enthusiast;  
 - 💞️ 
 - 📫 How to reach me :----->>>>> wechat : fengww33 / 16602197096
 
